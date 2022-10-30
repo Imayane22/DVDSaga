@@ -13,4 +13,5 @@ X est le nom du fichier test qui peut prendre les valeurs suivantes:
 - testsaga2
 - testsaga4
 - testsagadiff
+
 Les tests couvre 89,7% du code
